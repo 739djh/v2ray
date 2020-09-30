@@ -50,11 +50,11 @@ v2rayN  作者网址  https://github.com/2dust/v2rayN/releases
 ## v2ray4.25或4.27独立版单独安装，无配置（V2fly大神们认为VMESS已不安全，大家用不用自定）
 #wget  https://raw.githubusercontent.com/mikewubox/v2ray/master/go.sh
 
-#wget  https://github.com/mikewubox/v2ray/raw/master/v2ray425/v2ray-linux-64.zip   ##安装4.25版##
+#wget  https://github.com/739djh/v2ray/raw/master/v2ray425/v2ray-linux-64.zip   ##安装4.25版##
 
 或
 
-#wget  https://github.com/mikewubox/v2ray/raw/master/v2ray427/v2ray-linux-64.zip   ##安装4.27版##
+#wget  https://github.com/739djh/v2ray/raw/master/v2ray427/v2ray-linux-64.zip   ##安装4.27版##
     
 #chmod 777 go.sh
 
