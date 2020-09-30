@@ -61,3 +61,7 @@ v2rayN  作者网址  https://github.com/2dust/v2rayN/releases
 #chmod 777 v2ray-linux-64.zip
 
 #./go.sh --local v2ray-linux-64.zip
+
+现在V2Ray程序就已经正常运行并且已经成功添加至系统服务，之后就可以使用以下命令将其设置为系统自动启动：
+
+ # systemctl enable v2ray
